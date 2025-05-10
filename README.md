@@ -10,7 +10,7 @@
 - **Tools**: Git, Docker, Postman, Figma  
 
 🌱 **Learning**: AWS, TypeScript, GraphQL  
-📫 **Let’s connect**: [LinkedIn]([https://www.linkedin.com/in/paing-phyo-zaw-650a4122a/]) | [Portfolio]([https://ppzdev.vercel.app/]) | [Email](mailto:[paingphyozaw037@gmail.com])  
+📫 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/paing-phyo-zaw-650a4122a/) | [Portfolio](https://ppzdev.vercel.app/) | [Email](mailto:paingphyozaw037@gmail.com)  
 
 ---
 
@@ -27,15 +27,4 @@
 
 #### **2. [Task Management Tool]([PROJECT_LINK])**  
 - Real-time task tracker with drag-and-drop UI.  
-- **Tech**: Next.js, Firebase, TailwindCSS.  
-
----
-
-### **📌 Pinned Repositories**  
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=PaingPhyoZaw&repo=[REPO_NAME]&theme=dark)]([REPO_LINK])  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=PaingPhyoZaw&repo=[REPO_NAME]&theme=dark)]([REPO_LINK])  
-
----
-
-### **📈 Activity Graph**  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PaingPhyoZaw&theme=github)](https://github.com/PaingPhyoZaw)  
+- **Tech**: Next.js, Firebase, TailwindCSS.

@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Paing Phyo Zaw 👨‍💻  
 
-<!--
-**PaingPhyoZaw/PaingPhyoZaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MERN Stack Developer | Open-Source Enthusiast | Problem Solver**  
 
-Here are some ideas to get you started:
+> *"Build with passion, refine with patience."*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Tech Stack**:  
+- **Frontend**: React.js, Next.js, Redux, TailwindCSS  
+- **Backend**: Node.js, Express.js, MongoDB, Firebase  
+- **Tools**: Git, Docker, Postman, Figma  
+
+🌱 **Learning**: AWS, TypeScript, GraphQL  
+📫 **Let’s connect**: [LinkedIn]([https://www.linkedin.com/in/paing-phyo-zaw-650a4122a/]) | [Portfolio]([https://ppzdev.vercel.app/]) | [Email](mailto:[paingphyozaw037@gmail.com])  
+
+---
+
+### **🔥 GitHub Highlights**  
+[![GitHub Streak](https://streak-stats.demolab.com?user=PaingPhyoZaw&theme=dark)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaingPhyoZaw&layout=compact&theme=radical)](https://github.com/PaingPhyoZaw)  
+
+---
+
+### **🚀 Featured Projects**  
+#### **1. [E-Commerce App (MERN)]([PROJECT_LINK])**  
+- Full-stack e-commerce platform with payment integration (Stripe).  
+- **Tech**: React, Node.js, MongoDB, JWT Auth.  
+
+#### **2. [Task Management Tool]([PROJECT_LINK])**  
+- Real-time task tracker with drag-and-drop UI.  
+- **Tech**: Next.js, Firebase, TailwindCSS.  
+
+---
+
+### **📌 Pinned Repositories**  
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=PaingPhyoZaw&repo=[REPO_NAME]&theme=dark)]([REPO_LINK])  
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=PaingPhyoZaw&repo=[REPO_NAME]&theme=dark)]([REPO_LINK])  
+
+---
+
+### **📈 Activity Graph**  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PaingPhyoZaw&theme=github)](https://github.com/PaingPhyoZaw)  
